@@ -1,8 +1,5 @@
 package org.example;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class PositionsAverage {
   public static double getAveragePercentage(String string) {
     String[] stringArray = string.split(",");
